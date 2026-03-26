@@ -59,10 +59,6 @@
   </a>
 </p>
 
-## 🟩 Codeforces Heatmap
-
-![CF Heatmap](./cf_heatmap.png)
-
 ---
 
 #  Fun Fact  
