@@ -22,7 +22,7 @@ jobs:
         run: pip install matplotlib numpy requests
 
       - name: Generate heatmap
-        run: python cf_heatmap.py
+        run: python ./cf_heatmap.py
 
       - name: Commit & push
         run: |
