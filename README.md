@@ -1,18 +1,87 @@
-👋 Hi, I'm Pasam Nipunkumar Reddy
-# 💫 About Me:
-📍 From Telangana, India<br>🎓 B.Tech and Integrated M-Tech in Information Technology<br>🏫 Indian Institute of Information Technology and Management, Gwalior<br>🎓 5-Year Integrated Course (Class of 2030)<br>💡 Interests: AI, Game Development, Data Structures & Algorithms
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/p.nipunkumar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ P.NIPUNKUMAR REDDY) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reddypnipun@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=reddypnipun&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=reddypnipun&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=reddypnipun&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h1 align="center">
+👋 Hi, I'm Pasam Nipunkumar Reddy  
+</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Aspiring+AI+Engineer;AI+%7C+Game+Dev+%7C+DSA;Building+Consistency+Everyday+🚀" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=reddypnipun&icon=0&color=0)](https://visitcount.itsvg.in)
 
+# 💫 About Me  
+📍 From Telangana, India  
+🎓 B.Tech + Integrated M.Tech in Information Technology  
+🏫 IIITM Gwalior  
+🎓 5-Year Integrated Course (Class of 2030)  
+
+💡 Passionate about:  
+- 🤖 Artificial Intelligence  
+- 🎮 Game Development  
+- 🧠 Data Structures & Algorithms  
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/p-nipunkumar-reddy-a24292370">
+    <img src="https://img.shields.io/badge/LinkedIn-Nipunkumar%20Reddy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/p.nipunkumar">
+    <img src="https://img.shields.io/badge/Instagram-@p.nipunkumar-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:reddypnipun@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-reddypnipun%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# 💻 Tech Stack  
+
+### 🚀 Languages  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+</p>
+
+---
+
+### ⚙️ Currently Exploring  
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Game%20Development-purple?style=for-the-badge"/>
+</p>
+
+---
+
+# 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=reddypnipun&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddypnipun&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🏆 Codeforces
+
+<p align="center">
+  <a href="https://codeforces.com/profile/Nipunkumarreddy">
+    <img src="https://img.shields.io/badge/Codeforces-Nipunkumarreddy-blue?style=for-the-badge&logo=codeforces"/>
+  </a>
+</p>
+
+
+---
+
+# ⚡ Fun Fact  
+💡 *I believe consistency beats talent — coding every single day!*  
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=reddypnipun&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
