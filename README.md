@@ -12,40 +12,25 @@
 🎓 B.Tech + Integrated M.Tech in Information Technology  
 🏫 IIITM Gwalior  
 🎓 5-Year Integrated Course (Class of 2030)  
+📩 Connect with me: reddypnipun@gmail.com
 
-💡 Passionate about:  
+💡 Passionate about: 
 - 🤖 Artificial Intelligence  
 - 🎮 Game Development  
 - 🧠 Data Structures & Algorithms  
 
 ---
 
-# 🌐 Connect With Me
+#  Tech Stack  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/p-nipunkumar-reddy-a24292370">
-    <img src="https://img.shields.io/badge/LinkedIn-Nipunkumar%20Reddy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/p.nipunkumar">
-    <img src="https://img.shields.io/badge/Instagram-@p.nipunkumar-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:reddypnipun@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-reddypnipun%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-# 💻 Tech Stack  
-
-### 🚀 Languages  
+###  Languages  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
 </p>
 
 ---
 
-### ⚙️ Currently Exploring  
+###  Currently Exploring  
 <p align="center">
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge"/>
@@ -54,7 +39,7 @@
 
 ---
 
-# 📊 GitHub Analytics  
+#  GitHub Analytics  
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=reddypnipun&theme=tokyonight" height="165"/>
@@ -74,11 +59,30 @@
   </a>
 </p>
 
+## 🟩 Codeforces Heatmap
+
+![CF Heatmap](./cf_heatmap.png)
 
 ---
 
-# ⚡ Fun Fact  
+#  Fun Fact  
 💡 *I believe consistency beats talent — coding every single day!*  
+
+---
+
+#  Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/p-nipunkumar-reddy-a24292370"/?originalSubdomain=in" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  &nbsp; <a href="https://www.instagram.com/p.nipunkumar" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+  </a>
+   &nbsp; <a href="https://github.com/reddypnipun" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" height="40" alt="github logo" />
+  </a>
+</div>
 
 ---
 
