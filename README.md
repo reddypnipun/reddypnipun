@@ -37,13 +37,6 @@
   <img src="https://img.shields.io/badge/Game%20Development-purple?style=for-the-badge"/>
 </p>
 
----
-
-#  GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddypnipun&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
