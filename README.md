@@ -2,7 +2,7 @@
 👋 Hi, I'm Pasam Nipunkumar Reddy  
 </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Aspiring+AI+Engineer;AI+%7C+Game+Dev+%7C+DSA;Building+Consistency+Everyday+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Aspiring+AI+Engineer;AI+%7C+Game+Dev+%7C+CP;Building+Consistency+Everyday+🚀" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 💡 Passionate about: 
 - 🤖 Artificial Intelligence  
 - 🎮 Game Development  
-- 🧠 Data Structures & Algorithms  
+- 🧠 Competitive Programming  
 
 ---
 
